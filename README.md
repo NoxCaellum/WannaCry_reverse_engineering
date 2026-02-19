@@ -6,6 +6,7 @@ The analysis combines multiple approaches, including static analysis, dynamic an
 Static analysis is used to examine the binary structure, embedded resources, and cryptographic routines without execution. Dynamic analysis is performed in an isolated environment to observe runtime behavior, system modifications. Automated triage tools are leveraged to rapidly identify key capabilities, suspicious functions, and relevant indicators of compromise.
 In addition, threat intelligence resources are integrated into the analysis process to correlate findings with known malware families, documented TTPs, and publicly available intelligence data.
 
+You can read the full report here: https://github.com/NoxCaellum/WannaCry_reverse_engineering/blob/main/wannacry%20malware%20analysis.pdf
 
 ---
 
